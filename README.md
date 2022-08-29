@@ -1,2 +1,2 @@
 # Practica1_fdp
-Practica 1- Heranadez Andrade Miguel Angel 
+Practica 1- Hernandez Andrade Miguel Angel 
